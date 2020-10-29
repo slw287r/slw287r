@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![github stats](https://github-readme-stats.vercel.app/api?username=slw287r&show_icons=true)
+
 <!--
 **slw287r/slw287r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
