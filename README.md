@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slw287r&layout=compact)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=slw287r&show_icons=true)
 
 <!--
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
