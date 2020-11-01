@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-
-
-
-
 <tr>
-<td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slw287r&layout=compact)</td><td>![github stats](https://github-readme-stats.vercel.app/api?username=slw287r&show_icons=true)</td>
+<td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slw287r&layout=compact" alt="Drawing" style="width: 200px;"/> </td><td> <img src="https://github-readme-stats.vercel.app/api?username=slw287r&show_icons=true" alt="Drawing" style="width: 200px;"/> </td>
 </tr>
+
 
 <!--
 **slw287r/slw287r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
